@@ -1,0 +1,10 @@
+{
+  "name": "yarn-prisma-repro",
+  "packageManager": "yarn@3.0.1",
+  "private": true,
+  "version": "1.0.0",
+  "workspaces": [
+    "workspace",
+    "other-workspace"
+  ]
+}
